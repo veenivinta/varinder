@@ -1,0 +1,23 @@
+﻿id,occupation,category,color,n_emp_nov2019,n_emp_nov2020,unemp_rate_nov2019,unemp_rate_nov2020
+1,Management,"Management, business, and financial operations",#3c69f4,269,713,1.4,3.7
+2,Business and Finance,"Management, business, and financial operations",#7896f3,184,394,2.3,4.4
+3,Computer and Math,Professional,#07acb0,132,131,2.4,2.4
+4,Architecture and Engineering,Professional,#056f71,62,120,1.9,3.5
+5,"Life, Physical, and Social Science",Professional,#047e80,40,77,2.7,4.9
+6,Community and Social Service,Professional,#e175e6,67,66,2.4,2.4
+7,Legal,Professional,#2a8f0a,29,29,1.4,1.5
+8,Education and Library,Professional,#9f1da4,206,366,2.1,3.8
+9,Arts and Entertainment,Professional,#d43139,82,333,2.3,10.1
+10,Healthcare Practitioners,Professional,#37bf0e,138,186,1.3,2
+11,Healthcare Support,Service,#8ff06f,126,357,3.2,6.4
+12,Protective Service,Service,#751579,109,154,3.4,4.8
+13,Food Preparation and Serving,Service,#8c7001,410,1177,4.6,14.5
+14,Building and Grounds Cleaning,Service,#bf9800,285,533,4.8,9.1
+15,Personal Care and Service,Service,#eaa0ee,211,362,3.5,9.9
+16,Sales,Sales and Office,#dd5a62,531,991,3.3,6.3
+17,Administrative Support,Sales and Office,#eca0a5,567,987,3.1,5.8
+18,"Farming, Fishing, and Forestry","Natural Resources, Construction, and Maintenance",#fedc5b,134,117,11.1,10.4
+19,Construction and Extraction,"Natural Resources, Construction, and Maintenance",#cf6000,437,694,5,8
+20,Installation and Maintenance,"Natural Resources, Construction, and Maintenance",#fe7805,84,274,1.6,5.6
+21,Production,"Production, Transportation, and Material Moving",#fe9337,334,563,3.7,6.7
+22,Transportation and Material Moving,"Production, Transportation, and Material Moving",#ffd3ae,468,1108,4.4,9.3
