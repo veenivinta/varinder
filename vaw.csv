@@ -1,8 +1,8 @@
-time,valueA,year
+time,valueA,year,candidate
 5450,466,2001
 5829,493
 5653,1391
-6483,1391
+6483,1391,,A.K Anthony
 6762,2018
 7554,2433,2006
 7837,2433
