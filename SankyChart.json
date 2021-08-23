@@ -1,0 +1,1206 @@
+{
+"links": [
+  {
+    "source": "AJNALA",
+    "target": "AMRITSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "AMRITSAR CENTRAL",
+    "target": "AMRITSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "AMRITSAR EAST",
+    "target": "AMRITSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "AMRITSAR NORTH",
+    "target": "AMRITSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "AMRITSAR SOUTH",
+    "target": "AMRITSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "AMRITSAR WEST",
+    "target": "AMRITSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "ATTARI",
+    "target": "AMRITSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "MAJITHA",
+    "target": "AMRITSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "RAJA SANSI",
+    "target": "AMRITSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "GARHSHANKAR",
+    "target": "HOSHIARPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "ANANDPUR SAHIB",
+    "target": "RUPNAGAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "CHAMKAUR SAHIB",
+    "target": "RUPNAGAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "RUPNAGAR",
+    "target": "RUPNAGAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "KHARAR",
+    "target": "S.A.S.NAGAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "S.A.S. NAGAR",
+    "target": "S.A.S.NAGAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BALACHAUR",
+    "target": "SHAHID BHAGAT SINGH NAGAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BANGA",
+    "target": "SHAHID BHAGAT SINGH NAGAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "NAWANSHAHR",
+    "target": "SHAHID BHAGAT SINGH NAGAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BATHINDA RURAL",
+    "target": "BATHINDA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BATHINDA URBAN",
+    "target": "BATHINDA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BHUCHO MANDI",
+    "target": "BATHINDA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "MAUR",
+    "target": "BATHINDA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "TALWANDI SABO",
+    "target": "BATHINDA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BUDHLADA",
+    "target": "MANSA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "MANSA",
+    "target": "MANSA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SARDULGARH",
+    "target": "MANSA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "LAMBI",
+    "target": "MUKTSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "RAMPURA PHUL",
+    "target": "BATHINDA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "FARIDKOT",
+    "target": "FARIDKOT(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "JAITU",
+    "target": "FARIDKOT(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "KOTKAPURA",
+    "target": "FARIDKOT(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BHAGHA PURANA",
+    "target": "MOGA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "DHARAMKOT",
+    "target": "MOGA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "MOGA",
+    "target": "MOGA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "NIHAL SINGH WALA",
+    "target": "MOGA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "GIDDERBAHA",
+    "target": "MUKTSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "AMLOH",
+    "target": "FATEHGARH SAHIB(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BASSI PATHANA",
+    "target": "FATEHGARH SAHIB(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "FATEHGARH SAHIB",
+    "target": "FATEHGARH SAHIB(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "KHANNA",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "PAYAL",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "RAIKOT",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SAHNEWAL",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SAMRALA",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "AMARGARH",
+    "target": "SANGRUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "ABOHAR",
+    "target": "FAZILKA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BALLUANA",
+    "target": "FAZILKA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "FAZILKA",
+    "target": "FAZILKA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "JALALABAD",
+    "target": "FAZILKA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "FIROZPUR CITY",
+    "target": "FIROZPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "FIROZPUR RURAL",
+    "target": "FIROZPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "GURU HAR SAHAI",
+    "target": "FIROZPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "MALOUT",
+    "target": "MUKTSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "MUKTSAR",
+    "target": "MUKTSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BATALA",
+    "target": "GURDASPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "DERA BABA NANAK",
+    "target": "GURDASPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "DINA NAGAR",
+    "target": "GURDASPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "FATEHGARH CHURIAN",
+    "target": "GURDASPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "GURDASPUR",
+    "target": "GURDASPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "QADIAN",
+    "target": "GURDASPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BHOA",
+    "target": "PATHANKOT(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "PATHANKOT",
+    "target": "PATHANKOT(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SUJANPUR",
+    "target": "PATHANKOT(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SRI HARGOBINDPUR",
+    "target": "GURDASPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "CHABBEWAL",
+    "target": "HOSHIARPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "DASUYA",
+    "target": "HOSHIARPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "HOSHIARPUR",
+    "target": "HOSHIARPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "MUKERIAN",
+    "target": "HOSHIARPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SHAM CHAURASI",
+    "target": "HOSHIARPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "URMAR",
+    "target": "HOSHIARPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BHOLATH",
+    "target": "KAPURTHALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "PHAGWARA",
+    "target": "KAPURTHALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "ADAMPUR",
+    "target": "JALANDHAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "JALANDHAR CANTT.",
+    "target": "JALANDHAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "JALANDHAR CENTRAL",
+    "target": "JALANDHAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "JALANDHAR NORTH",
+    "target": "JALANDHAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "JALANDHAR WEST",
+    "target": "JALANDHAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "KARTARPUR",
+    "target": "JALANDHAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "NAKODAR",
+    "target": "JALANDHAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "PHILLAUR",
+    "target": "JALANDHAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SHAHKOT",
+    "target": "JALANDHAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BABA BAKALA",
+    "target": "AMRITSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "JANDIALA",
+    "target": "AMRITSAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "ZIRA",
+    "target": "FIROZPUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "KAPURTHALA",
+    "target": "KAPURTHALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SULTANPUR LODHI",
+    "target": "KAPURTHALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "KHADOOR SAHIB",
+    "target": "TARN TARAN(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "KHEM KARAN",
+    "target": "TARN TARAN(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "PATTI",
+    "target": "TARN TARAN(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "TARN TARAN",
+    "target": "TARN TARAN(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "ATAM NAGAR",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "DAKHA",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "GILL",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "JAGRAON",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "LUDHIANA CENTRAL",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "LUDHIANA EAST",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "LUDHIANA NORTH",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "LUDHIANA SOUTH",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "LUDHIANA WEST",
+    "target": "LUDHIANA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "NABHA",
+    "target": "PATIALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "PATIALA",
+    "target": "PATIALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "PATIALA RURAL",
+    "target": "PATIALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SAMANA",
+    "target": "PATIALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SANOUR",
+    "target": "PATIALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SHUTRANA",
+    "target": "PATIALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "GHANAUR",
+    "target": "S.A.S.NAGAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "RAJPURA",
+    "target": "S.A.S.NAGAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "DERA BASSI",
+    "target": "S.A.S.NAGAR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BARNALA",
+    "target": "BARNALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "BHADAUR",
+    "target": "BARNALA(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "MEHAL KALAN",
+    "target": "SANGRUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "DHURI",
+    "target": "SANGRUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "DIRBA",
+    "target": "SANGRUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "LEHRA",
+    "target": "SANGRUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "MALERKOTLA",
+    "target": "SANGRUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SANGRUR",
+    "target": "SANGRUR(DISTRICT)",
+    "value": 2
+  },
+  {
+    "source": "SUNAM",
+    "target": "SANGRUR(DISTRICT)",
+    "value": 2
+  },
+ {
+    "source": "AMRITSAR(DISTRICT)",
+    "target": "AMRITSAR(PC)",
+    "value": 1
+  },
+  {
+    "source": "HOSHIARPUR(DISTRICT)",
+    "target": "ANANDPUR SAHIB(PC)",
+    "value": 1
+  },
+  {
+    "source": "RUPNAGAR(DISTRICT)",
+    "target": "ANANDPUR SAHIB(PC)",
+    "value": 1
+  },
+  {
+    "source": "S.A.S.NAGAR(DISTRICT)",
+    "target": "ANANDPUR SAHIB(PC)",
+    "value": 1
+  },
+  {
+    "source": "SHAHID BHAGAT SINGH NAGAR(DISTRICT)",
+    "target": "ANANDPUR SAHIB(PC)",
+    "value": 1
+  },
+  {
+    "source": "BATHINDA(DISTRICT)",
+    "target": "BATHINDA(PC)",
+    "value": 1
+  },
+  {
+    "source": "MANSA(DISTRICT)",
+    "target": "BATHINDA(PC)",
+    "value": 1
+  },
+  {
+    "source": "MUKTSAR(DISTRICT)",
+    "target": "BATHINDA(PC)",
+    "value": 1
+  },
+  {
+    "source": "BATHINDA(DISTRICT)",
+    "target": "FARIDKOT(PC)",
+    "value": 1
+  },
+  {
+    "source": "FARIDKOT(DISTRICT)",
+    "target": "FARIDKOT(PC)",
+    "value": 1
+  },
+  {
+    "source": "MOGA(DISTRICT)",
+    "target": "FARIDKOT(PC)",
+    "value": 1
+  },
+  {
+    "source": "MUKTSAR(DISTRICT)",
+    "target": "FARIDKOT(PC)",
+    "value": 1
+  },
+  {
+    "source": "FATEHGARH SAHIB(DISTRICT)",
+    "target": "FATEHGARH SAHIB(PC)",
+    "value": 1
+  },
+  {
+    "source": "LUDHIANA(DISTRICT)",
+    "target": "FATEHGARH SAHIB(PC)",
+    "value": 1
+  },
+  {
+    "source": "SANGRUR(DISTRICT)",
+    "target": "FATEHGARH SAHIB(PC)",
+    "value": 1
+  },
+  {
+    "source": "FAZILKA(DISTRICT)",
+    "target": "FEROZPUR(PC)",
+    "value": 1
+  },
+  {
+    "source": "FIROZPUR(DISTRICT)",
+    "target": "FEROZPUR(PC)",
+    "value": 1
+  },
+  {
+    "source": "MUKTSAR(DISTRICT)",
+    "target": "FEROZPUR(PC)",
+    "value": 1
+  },
+  {
+    "source": "GURDASPUR(DISTRICT)",
+    "target": "GURDASPUR(PC)",
+    "value": 1
+  },
+  {
+    "source": "PATHANKOT(DISTRICT)",
+    "target": "GURDASPUR(PC)",
+    "value": 1
+  },
+  {
+    "source": "GURDASPUR(DISTRICT)",
+    "target": "HOSHIARPUR(PC)",
+    "value": 1
+  },
+  {
+    "source": "HOSHIARPUR(DISTRICT)",
+    "target": "HOSHIARPUR(PC)",
+    "value": 1
+  },
+  {
+    "source": "KAPURTHALA(DISTRICT)",
+    "target": "HOSHIARPUR(PC)",
+    "value": 1
+  },
+  {
+    "source": "JALANDHAR(DISTRICT)",
+    "target": "JALANDHAR(PC)",
+    "value": 1
+  },
+  {
+    "source": "AMRITSAR(DISTRICT)",
+    "target": "KHADOOR SAHIB(PC)",
+    "value": 1
+  },
+  {
+    "source": "FIROZPUR(DISTRICT)",
+    "target": "KHADOOR SAHIB(PC)",
+    "value": 1
+  },
+  {
+    "source": "KAPURTHALA(DISTRICT)",
+    "target": "KHADOOR SAHIB(PC)",
+    "value": 1
+  },
+  {
+    "source": "TARN TARAN(DISTRICT)",
+    "target": "KHADOOR SAHIB(PC)",
+    "value": 1
+  },
+  {
+    "source": "LUDHIANA(DISTRICT)",
+    "target": "LUDHIANA(PC)",
+    "value": 1
+  },
+  {
+    "source": "PATIALA(DISTRICT)",
+    "target": "PATIALA(PC)",
+    "value": 1
+  },
+  {
+    "source": "S.A.S.NAGAR(DISTRICT)",
+    "target": "PATIALA(PC)",
+    "value": 1
+  },
+  {
+    "source": "BARNALA(DISTRICT)",
+    "target": "SANGRUR(PC)",
+    "value": 1
+  }
+],
+"nodes":[
+  {
+    "name": "AJNALA"
+  },
+  {
+    "name": "AMRITSAR CENTRAL"
+  },
+  {
+    "name": "AMRITSAR EAST"
+  },
+  {
+    "name": "AMRITSAR NORTH"
+  },
+  {
+    "name": "AMRITSAR SOUTH"
+  },
+  {
+    "name": "AMRITSAR WEST"
+  },
+  {
+    "name": "ATTARI"
+  },
+  {
+    "name": "MAJITHA"
+  },
+  {
+    "name": "RAJA SANSI"
+  },
+  {
+    "name": "GARHSHANKAR"
+  },
+  {
+    "name": "ANANDPUR SAHIB"
+  },
+  {
+    "name": "CHAMKAUR SAHIB"
+  },
+  {
+    "name": "RUPNAGAR"
+  },
+  {
+    "name": "KHARAR"
+  },
+  {
+    "name": "S.A.S. NAGAR"
+  },
+  {
+    "name": "BALACHAUR"
+  },
+  {
+    "name": "BANGA"
+  },
+  {
+    "name": "NAWANSHAHR"
+  },
+  {
+    "name": "BATHINDA RURAL"
+  },
+  {
+    "name": "BATHINDA URBAN"
+  },
+  {
+    "name": "BHUCHO MANDI"
+  },
+  {
+    "name": "MAUR"
+  },
+  {
+    "name": "TALWANDI SABO"
+  },
+  {
+    "name": "BUDHLADA"
+  },
+  {
+    "name": "MANSA"
+  },
+  {
+    "name": "SARDULGARH"
+  },
+  {
+    "name": "LAMBI"
+  },
+  {
+    "name": "RAMPURA PHUL"
+  },
+  {
+    "name": "FARIDKOT"
+  },
+  {
+    "name": "JAITU"
+  },
+  {
+    "name": "KOTKAPURA"
+  },
+  {
+    "name": "BHAGHA PURANA"
+  },
+  {
+    "name": "DHARAMKOT"
+  },
+  {
+    "name": "MOGA"
+  },
+  {
+    "name": "NIHAL SINGH WALA"
+  },
+  {
+    "name": "GIDDERBAHA"
+  },
+  {
+    "name": "AMLOH"
+  },
+  {
+    "name": "BASSI PATHANA"
+  },
+  {
+    "name": "FATEHGARH SAHIB"
+  },
+  {
+    "name": "KHANNA"
+  },
+  {
+    "name": "PAYAL"
+  },
+  {
+    "name": "RAIKOT"
+  },
+  {
+    "name": "SAHNEWAL"
+  },
+  {
+    "name": "SAMRALA"
+  },
+  {
+    "name": "AMARGARH"
+  },
+  {
+    "name": "ABOHAR"
+  },
+  {
+    "name": "BALLUANA"
+  },
+  {
+    "name": "FAZILKA"
+  },
+  {
+    "name": "JALALABAD"
+  },
+  {
+    "name": "FIROZPUR CITY"
+  },
+  {
+    "name": "FIROZPUR RURAL"
+  },
+  {
+    "name": "GURU HAR SAHAI"
+  },
+  {
+    "name": "MALOUT"
+  },
+  {
+    "name": "MUKTSAR"
+  },
+  {
+    "name": "BATALA"
+  },
+  {
+    "name": "DERA BABA NANAK"
+  },
+  {
+    "name": "DINA NAGAR"
+  },
+  {
+    "name": "FATEHGARH CHURIAN"
+  },
+  {
+    "name": "GURDASPUR"
+  },
+  {
+    "name": "QADIAN"
+  },
+  {
+    "name": "BHOA"
+  },
+  {
+    "name": "PATHANKOT"
+  },
+  {
+    "name": "SUJANPUR"
+  },
+  {
+    "name": "SRI HARGOBINDPUR"
+  },
+  {
+    "name": "CHABBEWAL"
+  },
+  {
+    "name": "DASUYA"
+  },
+  {
+    "name": "HOSHIARPUR"
+  },
+  {
+    "name": "MUKERIAN"
+  },
+  {
+    "name": "SHAM CHAURASI"
+  },
+  {
+    "name": "URMAR"
+  },
+  {
+    "name": "BHOLATH"
+  },
+  {
+    "name": "PHAGWARA"
+  },
+  {
+    "name": "ADAMPUR"
+  },
+  {
+    "name": "JALANDHAR CANTT."
+  },
+  {
+    "name": "JALANDHAR CENTRAL"
+  },
+  {
+    "name": "JALANDHAR NORTH"
+  },
+  {
+    "name": "JALANDHAR WEST"
+  },
+  {
+    "name": "KARTARPUR"
+  },
+  {
+    "name": "NAKODAR"
+  },
+  {
+    "name": "PHILLAUR"
+  },
+  {
+    "name": "SHAHKOT"
+  },
+  {
+    "name": "BABA BAKALA"
+  },
+  {
+    "name": "JANDIALA"
+  },
+  {
+    "name": "ZIRA"
+  },
+  {
+    "name": "KAPURTHALA"
+  },
+  {
+    "name": "SULTANPUR LODHI"
+  },
+  {
+    "name": "KHADOOR SAHIB"
+  },
+  {
+    "name": "KHEM KARAN"
+  },
+  {
+    "name": "PATTI"
+  },
+  {
+    "name": "TARN TARAN"
+  },
+  {
+    "name": "ATAM NAGAR"
+  },
+  {
+    "name": "DAKHA"
+  },
+  {
+    "name": "GILL"
+  },
+  {
+    "name": "JAGRAON"
+  },
+  {
+    "name": "LUDHIANA CENTRAL"
+  },
+  {
+    "name": "LUDHIANA EAST"
+  },
+  {
+    "name": "LUDHIANA NORTH"
+  },
+  {
+    "name": "LUDHIANA SOUTH"
+  },
+  {
+    "name": "LUDHIANA WEST"
+  },
+  {
+    "name": "NABHA"
+  },
+  {
+    "name": "PATIALA"
+  },
+  {
+    "name": "PATIALA RURAL"
+  },
+  {
+    "name": "SAMANA"
+  },
+  {
+    "name": "SANOUR"
+  },
+  {
+    "name": "SHUTRANA"
+  },
+  {
+    "name": "GHANAUR"
+  },
+  {
+    "name": "RAJPURA"
+  },
+  {
+    "name": "DERA BASSI"
+  },
+  {
+    "name": "BARNALA"
+  },
+  {
+    "name": "BHADAUR"
+  },
+  {
+    "name": "MEHAL KALAN"
+  },
+  {
+    "name": "DHURI"
+  },
+  {
+    "name": "DIRBA"
+  },
+  {
+    "name": "LEHRA"
+  },
+  {
+    "name": "MALERKOTLA"
+  },
+  {
+    "name": "SANGRUR"
+  },
+  {
+    "name": "SUNAM"
+  },
+  {
+    "name": "AMRITSAR(PC)"
+  },
+  {
+    "name": "ANANDPUR SAHIB(PC)"
+  },
+  {
+    "name": "BATHINDA(PC)"
+  },
+  {
+    "name": "FARIDKOT(PC)"
+  },
+  {
+    "name": "FATEHGARH SAHIB(PC)"
+  },
+  {
+    "name": "FEROZPUR(PC)"
+  },
+  {
+    "name": "GURDASPUR(PC)"
+  },
+  {
+    "name": "HOSHIARPUR(PC)"
+  },
+  {
+    "name": "JALANDHAR(PC)"
+  },
+  {
+    "name": "KHADOOR SAHIB(PC)"
+  },
+  {
+    "name": "LUDHIANA(PC)"
+  },
+  {
+    "name": "PATIALA(PC)"
+  },
+  {
+    "name": "SANGRUR(PC)"
+  },
+  {
+    "name": "AMRITSAR(DISTRICT)"
+  },
+  {
+    "name": "HOSHIARPUR(DISTRICT)"
+  },
+  {
+    "name": "RUPNAGAR(DISTRICT)"
+  },
+  {
+    "name": "S.A.S.NAGAR(DISTRICT)"
+  },
+  {
+    "name": "SHAHID BHAGAT SINGH NAGAR(DISTRICT)"
+  },
+  {
+    "name": "BATHINDA(DISTRICT)"
+  },
+  {
+    "name": "MANSA(DISTRICT)"
+  },
+  {
+    "name": "MUKTSAR(DISTRICT)"
+  },
+  {
+    "name": "FARIDKOT(DISTRICT)"
+  },
+  {
+    "name": "MOGA(DISTRICT)"
+  },
+  {
+    "name": "FATEHGARH SAHIB(DISTRICT)"
+  },
+  {
+    "name": "LUDHIANA(DISTRICT)"
+  },
+  {
+    "name": "SANGRUR(DISTRICT)"
+  },
+  {
+    "name": "FAZILKA(DISTRICT)"
+  },
+  {
+    "name": "FIROZPUR(DISTRICT)"
+  },
+  {
+    "name": "GURDASPUR(DISTRICT)"
+  },
+  {
+    "name": "PATHANKOT(DISTRICT)"
+  },
+  {
+    "name": "KAPURTHALA(DISTRICT)"
+  },
+  {
+    "name": "JALANDHAR(DISTRICT)"
+  },
+  {
+    "name": "TARN TARAN(DISTRICT)"
+  },
+  {
+    "name": "PATIALA(DISTRICT)"
+  },
+  {
+    "name": "BARNALA(DISTRICT)"
+  }
+] }
